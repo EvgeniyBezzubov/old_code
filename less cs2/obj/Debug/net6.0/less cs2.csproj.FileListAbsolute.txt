@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\obj\Debug\net6.0\less cs2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\obj\Debug\net6.0\less cs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\obj\Debug\net6.0\less cs2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\obj\Debug\net6.0\less cs2.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\obj\Debug\net6.0\less cs2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\bin\Debug\net6.0\less cs2.exe
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\bin\Debug\net6.0\less cs2.deps.json
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\bin\Debug\net6.0\less cs2.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\bin\Debug\net6.0\less cs2.dll
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\bin\Debug\net6.0\less cs2.pdb
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\obj\Debug\net6.0\less cs2.dll
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\obj\Debug\net6.0\refint\less cs2.dll
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\obj\Debug\net6.0\less cs2.pdb
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\obj\Debug\net6.0\less cs2.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (3)\1\less cs2\obj\Debug\net6.0\ref\less cs2.dll

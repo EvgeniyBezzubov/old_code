@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\bin\Debug\net6.0\zadaniy.exe
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\bin\Debug\net6.0\zadaniy.deps.json
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\bin\Debug\net6.0\zadaniy.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\bin\Debug\net6.0\zadaniy.dll
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\bin\Debug\net6.0\zadaniy.pdb
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\obj\Debug\net6.0\zadaniy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\obj\Debug\net6.0\zadaniy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\obj\Debug\net6.0\zadaniy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\obj\Debug\net6.0\zadaniy.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\obj\Debug\net6.0\zadaniy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\obj\Debug\net6.0\zadaniy.dll
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\obj\Debug\net6.0\refint\zadaniy.dll
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\obj\Debug\net6.0\zadaniy.pdb
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\obj\Debug\net6.0\zadaniy.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (3)\1\zadaniy\obj\Debug\net6.0\ref\zadaniy.dll
